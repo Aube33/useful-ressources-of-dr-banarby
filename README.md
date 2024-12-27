@@ -3,3 +3,4 @@
 
 ### ANDROID:
 - [APK Reverse Engineering (FR)](https://korben.info/decompiler-application-android-apk-recompiler.html)
+- [Introduction to Smali](https://payatu.com/blog/an-introduction-to-smali/)
