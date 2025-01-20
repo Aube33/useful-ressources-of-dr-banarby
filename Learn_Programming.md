@@ -1,5 +1,7 @@
 # My universal path to learn programming / a programming language
 
+#### This list is my personal path when I want to learn a new programming language.
+
 ## 1 - Fucking World (Difficulty: 0)
 Filename: `hello_world.xx`
 
