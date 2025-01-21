@@ -1,6 +1,9 @@
 ### PROGRAMMING:
 - [My universal path to learn programming / a programming language](/Learn_Programming.md)
 
+### FORENSIC - Memory Dump:
+- [Volatility2/3 translation](https://blog.onfvp.com/post/volatility-cheatsheet/)
+
 ### INTERNET:
 - [Dynamic DNS Tool](https://nip.io/)
 - [Master vs Slave, AXFR IXFR (FR)](https://repository.root-me.org/R%C3%A9seau/FR%20-%20Master%20Slave%20XFR%20Transfert%20de%20Zone.pdf)
