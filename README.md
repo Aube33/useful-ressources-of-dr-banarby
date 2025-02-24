@@ -4,7 +4,7 @@
 ### PROGRAMMING:
 - [My universal path to learn programming / a programming language](/Learn_Programming.md)
 
-### FORENSIC - Memory Dump:
+### FORENSIC:
 - [Volatility2/3 translation](https://blog.onfvp.com/post/volatility-cheatsheet/)
 
 ### INTERNET:
