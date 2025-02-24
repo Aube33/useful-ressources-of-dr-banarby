@@ -1,3 +1,6 @@
+### LINUX:
+- [Secure Grub with password](https://gist.github.com/TheHarold/7327425e67c0a3674c6b7c0d0f37e419)
+
 ### PROGRAMMING:
 - [My universal path to learn programming / a programming language](/Learn_Programming.md)
 
