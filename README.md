@@ -1,6 +1,7 @@
 ### SECURITY:
 - [Cybersecurity 101 (FR)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/)
 - [Reverse Shell Generator](https://www.revshells.com/)
+- [WAF Bypass](https://waf-bypass.com/)
 
 ### LINUX:
 - [Secure Grub with password](https://gist.github.com/TheHarold/7327425e67c0a3674c6b7c0d0f37e419)
